@@ -4,7 +4,7 @@ A simple linear programming course scheduler that uses data from the Virginia Te
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine.
+These instructions will get you a copy of the project up and running on your local machine
 
 ### Dependancies
 
@@ -36,3 +36,5 @@ Password: Pass2
 
 * **Alexander Hahn** - *Design and Implementation* - (https://github.com/ahahn95)
 * **Diamond Lee** - *UI* - (https://github.com/dflee)
+
+Avoid reading the commit messages
